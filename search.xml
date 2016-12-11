@@ -4,6 +4,12 @@
   
     
     <entry>
+      <title><![CDATA[demo]]></title>
+      <url>http://yoursite.com/2016/12/11/demo/</url>
+      <content type="html"></content>
+    </entry>
+    
+    <entry>
       <title><![CDATA[新建一个测试页面]]></title>
       <url>http://yoursite.com/2016/12/09/%E6%96%B0%E5%BB%BA%E4%B8%80%E4%B8%AA%E6%B5%8B%E8%AF%95%E9%A1%B5%E9%9D%A2/</url>
       <content type="html"><![CDATA[<p>[TOC]</p>
